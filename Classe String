@@ -1,0 +1,11 @@
+public class Programa {
+    public static void main(String[] args) {
+        int x = 2;
+        int y = 3;
+        int z = x + y;
+        
+        String nome = "Gabriel Fernandes";
+        char c = 'a';
+        System.out.println(nome + "O resultado é: "+z);
+    }
+}
